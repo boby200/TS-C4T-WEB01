@@ -1,0 +1,43 @@
+.p{
+    
+    margin-left: 20px;
+  }
+
+.p2{
+
+ margin-left: 20px;
+}
+.p3{
+ 
+ margin-left: 20px;
+}
+
+.red .fixed { 
+   display: block;  
+   float: left;
+   margin-left: 200px;
+   width: 100px;
+ height: 100px;
+ background-color: red;
+ border: 5px dotted;
+ 
+}
+.blue {
+ display: block;  
+   float: left;
+   margin-left: 200px;
+   width: 100px;
+ height: 100px;
+ background-color: blue;
+ border: 5px dotted;
+}
+.yellow{
+display: block;  
+   float: left;
+   margin-left: 200px;
+   width: 100px;
+   position: fixed ;
+ height: 100px;
+ background-color: yellow;
+ border: 5px dotted;
+}
